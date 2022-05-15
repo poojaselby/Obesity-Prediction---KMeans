@@ -1,0 +1,26 @@
+Assignment 2: Unsupervised learning
+Apply K-means clustering  ( or any other clustering algorithm ) on any dataset of your interest from the UCI Machine Learning Repository which could be access through this link:
+
+https://archive.ics.uci.edu/ml/index.php.
+
+                             //It is expected that different groups work on different datasets.//
+
+Use Python or R.
+
+Please submit a report in PDF format which is no more than 10 pages explaining:
+
+Which dataset you’re using
+Specification of your dataset
+Pre-processing
+How K-means / other clustering algorithm work
+Result of implementation
+Conclusion
+ Also make sure your input file as well as .py file is submitted.
+
+Submission deadline : August 11, 6:00 AM
+
+Presentation: August 11, 6:00 am ( presentation time would be around 10 to 15 mins max per group )
+
+One person per group submission.
+
+Good luck,
